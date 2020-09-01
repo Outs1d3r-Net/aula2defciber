@@ -1,4 +1,4 @@
 #!/usr/bin/env python2
 
 print 'Hello World !'
-print 'bye,bey...\n'
+print 'bye,bye...\n'
